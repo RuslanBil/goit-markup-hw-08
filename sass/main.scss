@@ -1,26 +1,47 @@
 @import "./utils/vars";
 @import "./components/common";
 @import "./components/container";
-@import "./components/header";
-@import "./utils/vars";
+@import "./layouts/header";
+@import "./components/mob-menu";
+
+
+
 @import "./components/logo";
 @import "./components/contacts";
-@import "./components/hero-index";
+@import "./layouts/hero-index";
 @import "./utils/btn";
-@import "./components/hero-portfolio";
+@import "./layouts/hero-portfolio";
 @import "./utils/hidden";
 @import "./components/card";
-@import "./components/advantage";
-@import "./components/service";
-@import "./components/team";
-@import "./components/client";
-@import "./components/footer-left";
-@import "./components/footer-right";
-@import "./utils/form";
-@import "./utils/backdrop";
-@import "./utils/modal";
-@import "./utils/custom-icon";
-@import "./utils/input";
+@import "./layouts/advantage";
+@import "./layouts/service";
+@import "./layouts/team";
+@import "./layouts/client";
+@import "./layouts/footer-left";
+@import "./layouts/footer-right";
+@import "./components/form";
+@import "./components/backdrop";
+@import "./components/modal";
+@import "./components/custom-icon";
+@import "./components/input";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
